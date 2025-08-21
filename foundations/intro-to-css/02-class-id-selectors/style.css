@@ -1,0 +1,14 @@
+.bg-tomato {
+    background-color: lightcoral;
+}
+#text-blue {
+    color: blue;
+}
+#bg-green {
+    font-weight: bold;
+    background-color: lightgreen;
+}
+.fsz-lg {
+    font-size: 20px;
+    font-weight: 600;
+}
